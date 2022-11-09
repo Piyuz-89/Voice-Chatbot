@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script
+      src="https://kit.fontawesome.com/c5a4ef9763.js"
+      crossorigin="anonymous"
+    ></script>
+
+    <title>Chatbot</title>
+  </head>
+  <body>
+    <input type="checkbox" id="click" />
+    <label for="click">
+      <img id="bot-img" src="./chatbot.png" />
+    </label>
+    <div class="wrapper">
+      <div class="head-text">Hi There!👋</div>
+      <div id="chat-area">
+        <p id="firstMessage" class="bot-text"></p>
+        <!-- <div id="bot">Hii!</div>
+        <div id="user">Hello!</div>
+        <div id="bot">Wanna have fun?</div>
+        <div id="user">Sure!</div>
+        <div id="bot">Want to watch some anime?</div>
+        <div id="user">Yeah I'd totally loved that!</div>
+        <div id="bot">Here we go!</div>
+        <div id="user">Can't wait</div>
+        <div id="bot">Hii!</div>
+        <div id="user">Hello!</div>
+        <div id="bot">Hii!</div>
+        <div id="user">Hello!</div> -->
+      </div>
+
+      <div class="bottom-area">
+        <div class="type-container">
+          <input type="text" id="user-input" placeholder="Message" />
+          <div id="send-btn">
+            <button class="button-38" role="button">
+              <i class="fa-solid fa-paper-plane" onclick="sendButton()"></i>
+            </button>
+          </div>
+          <div id="mic-btn">
+            <button id="mic" class="button-38" role="button">
+              <i class="fa-solid fa-microphone"></i>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script
+    language="JavaScript"
+    type="text/javascript"
+    src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js">
+  </script>
+  <script src="main.js"></script>
+</html>

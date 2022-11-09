@@ -1,0 +1,126 @@
+example
+
+paper checking pattern
+result announcement
+grade system
+grievance details
+grade changes in marksheet
+who to visit in office for particular thing (form submission,fees submission,etc)
+
+
+Sequence
+
+exam finished
+paper checking pattern
+result declared
+grade system
+grievance
+whom to visit
+
+
+
+*Script*
+
+****************************************************
+
+B-SAWADIKA, Welcome
+B-HOW CAN I HELP YOU
+
+*****************************************************
+
+U-WHAT IS THE NAME OF THE COLLEGE;
+
+B-YCCE,NAGPUR
+
+*****************************************************
+
+U-WHICH SEMESTER WAS GOING ON;
+
+B-CURRENTLY, EVEN/ODD SEMESTER ENDED
+
+****************************************************
+
+U-WHEN WILL BE THE 1/3/5/7 SEM RESULT BE DECLARED;
+
+B-1ST SEM RESULT
+   DATE:- 25TH OCT 22
+
+*****************************************************
+
+U-HOW TO CHECK RESULT;
+
+B-YOU CAN VISIT THE FOLLOWING WEBSITE TO SEE RESULT
+  http://ycceresult.mastersofterp.in/
+
+****************************************************
+
+U-WHAT IS REQUIRED WHILE CHECKING RESULT;
+
+B-YOU NEED YOUR CURRENT END SEM SEAT NUMBER
+
+*****************************************************
+
+U-HOW WILL BE THE CHECKING PATTERN OF PAPERS;
+
+B-LINK OR PDF
+
+*****************************************************
+
+U-HOW IS SGPA CALCULATED; OR WHAT IS GRADE SYSTEM;
+
+B-LINK OF ANY UTUBE VIDEO FOR CALCULATING SGPA
+*****************************************************
+
+U-WHAT IS GRIEVANCE;
+
+B-AN OFFICIAL STATEMENT OF A COMPLAINT OVER SOMETHING BELIEVED TO BE UNFAIR
+
+******************************************************
+
+U-GRIEVANCE FORM DETAILS;
+
+B-FORM LINK OR PDF
+
+******************************************************
+
+U-FEES TO FILL GRIEVANCE FORM;
+
+B-xxx/- PER PAPER
+
+******************************************************
+
+U-HOW MUCH WILL BE THE GRIEVANCE FEES FOR (EX -4) PAPER;
+
+B-(CODE FOR MULTIPLICATION OF NO. OF PAPER AND FEES OF ONE PAPER)
+
+******************************************************
+
+U-WHERE TO VISIT FOR SUBMISSION OF GRIEVANCE FORM;
+
+B-BACK SIDE OF ADMIN NEAR SUVIDHA STORE
+
+*******************************************************
+
+U-WHERE TO PAY GRIEVANCE FEES ONLINE/OFFLINE;
+
+B-FOR ONLINE 
+  SITE LINK
+
+  FOR OFFLINE
+  BACK SIDE OF ADMIN NEAR SUVIDHA STORE
+
+********************************************************
+
+*******************************************************
+
+U-THANKS
+
+B-Willkommen! (GERMAN) (WELCOME)
+
+*******************************************************
+
+
+
+
+
+*KEYWORDS*
